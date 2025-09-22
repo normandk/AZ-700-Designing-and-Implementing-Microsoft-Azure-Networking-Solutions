@@ -253,7 +253,7 @@ In this exercise, you will:
 
 1. In Virtual network gateways, select **ManufacturingVnetGateway**.
 
-1. In CoreServicesGateway, select **Connections**, and then select **+ Add**.
+1. In ManufacturingVnetGateway, select **Connections**, and then select **+ Add**.
 
 1. Use the information in the following table to create the connection:
 
